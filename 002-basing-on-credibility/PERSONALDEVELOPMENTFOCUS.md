@@ -1,7 +1,8 @@
 ## Aware / Efficient
 
 | Aware      | Efficient |
-| ----------- | ----------- |
-| Kubernetes      | Infrastructure As Code       |
-| Javascript   | CloudFormation        |
-| Still In   | Progress...        |
+| -----------| ----------- |
+| Development with Kubernetes | Kubernetes (Infra) Management |
+| AI/ML | Cloud Security |
+| Javascript | Cloud Networking (and security)|
+| Microservice Architecture | Infrastructure as Code |
